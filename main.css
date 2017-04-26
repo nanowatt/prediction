@@ -31,6 +31,8 @@ body {
 }
 
 #logo {
+  padding-left: 20px;
+  padding-right: 20px;
   font-weight: bolder;
   background-color: #345039;
 }
