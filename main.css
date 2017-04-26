@@ -3,5 +3,20 @@ body {
 }
 
 .navbar ul {
-  display: inline-block;
+  list-style-type: none;
+  text-decoration: none;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar ul li {
+  float: left;
+  display: inline;
+  padding: 10px;
+  background-color: #60966a;
+  margin: 0;
+}
+
+.navbar ul li a:hover li {
+  background-color: #345039;
 }
