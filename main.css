@@ -20,9 +20,14 @@ body {
 .navbar ul li a {
   text-decoration: none;
   color: white;
-  font-style: bold;
 }
 
 .navbar ul li a:hover li {
   background-color: #345039;
+}
+
+#logo {
+  font-size: 1.1rem;
+  font-weight: bolder;
+
 }
