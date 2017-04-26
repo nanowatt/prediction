@@ -2,6 +2,10 @@ body {
   font-family: sans-serif;
 }
 
+.navbar {
+  font-size: 2rem;
+}
+
 .navbar ul {
   list-style-type: none;
   text-decoration: none;
@@ -27,7 +31,6 @@ body {
 }
 
 #logo {
-  font-size: 1.1rem;
   font-weight: bolder;
-
+  background-color: #345039;
 }
