@@ -2,6 +2,10 @@ body {
   font-family: sans-serif;
 }
 
+.navbar {
+  font-size: 2rem;
+}
+
 .navbar ul {
   list-style-type: none;
   text-decoration: none;
@@ -19,8 +23,14 @@ body {
 
 .navbar ul li a {
   text-decoration: none;
+  color: white;
 }
 
 .navbar ul li a:hover li {
+  background-color: #345039;
+}
+
+#logo {
+  font-weight: bolder;
   background-color: #345039;
 }
